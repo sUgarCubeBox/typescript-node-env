@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "sqlite3": "^4.0.9",
     "ts-loader": "^6.0.4",
-    "typeorm": "^0.2.18",
+    "typeorm": "^0.2.25",
     "typescript": "^3.5.3",
     "webpack": "^4.35.3",
     "webpack-cli": "^3.3.5",
